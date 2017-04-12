@@ -1,0 +1,27 @@
+Dhruvang Patel
+Contact: +1 (626)361-8369  | Email: dhruvang9083@gmail.com
+LinkedIn: https://www.linkedin.com/in/dhruvang-patel
+OBJECTIVE:
+A recent grad highly motivated for technology Seeking for internship opportunity as Python Developer.
+SKILLS:
+Operating System	: Windows, Mac, Linux.
+Languages		: Objective C, C++, Python, Verilog.
+Software Tools		: Xilinx Vivado, MATLAB, Github.
+Other                		: PLC programming/Ladder logic, SCADA, Human Machine Interface (HMI),		                            AC/DC Motor Drives, Panel Designing.
+ACADAMIC PROJECTS:
+* MIPS Instruction set on Verilog: Verilog Code for 32-bits MIPS instruction execution data-path to execute Logical and Branch Instruction Using hierarchical and behavioral design model. Individual modules designed based on behavioral and they gathered by hierarchically. 
+* Patient Monitoring System Micro-controller 8051: Designed RISC multi-cycle data path and Main Controller’s Finite State Machine. Designed all modules of multi-cycle data path including Memory, Pipeline, Branch prediction, Main Controller and ALU Controller to execute arithmetic, logical and branch instructions using hierarchical and behavioral design model. Designed individual modules based on behavioral and developed test benches for CPU verification.
+* Viterbi Algorithm using Verilog: Convolutional encoding and Viterbi decoding are error correction techniques widely used in communication systems to improve the bit error rate (BER) performance.  With more and  more  implementation  standards  using  the  Viterbi  decoding  algorithm  as  the  error control  system,  exploring  a  high  performance  Viterbi  decoding  with  low  silicon  cost  is needed. Developed test bench for verification.
+
+EXPERIENCE:
+FPGA Engineer: BrainKlick Technologies, Ahmedabad, Gujarat, India.			January 2013 – December 2014
+* Performed on C/C++ and Verilog based modules.
+* Worked on CPU architecture, pipeline, memories and RISC designs on Verilog.
+* Managed FPGA verification with SystemVerilog assertion.
+Electrical Engineer Intern: Komoline Aerospace Ltd., Ahmedabad, Gujarat, India. 	  August 2012 – December 2012  
+* Understand schematics & layouts of Analog & Digital circuits.
+* Experience in handling high end equipment like DSO, Spectrum analyzer, RF frequency synthesizer. 
+EDUCATION:
+* Master of Science - Electrical Engineering - California State University- Los Angeles, CA, USA.	
+* Bachelor of Engineering - Electronics & Communication - Gujarat Technological University, Ahmedabad, Gujarat, India. 
+
